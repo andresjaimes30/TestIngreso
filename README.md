@@ -12,7 +12,7 @@ TestIngreso es una aplicación móvil para iOS que tiene como objetivo listar us
 
 ## Requerimientos
 
-- iOS 14.0 o superior.
+- iOS 15.0 o superior.
 - Xcode 15 
 
 ## Instalación
