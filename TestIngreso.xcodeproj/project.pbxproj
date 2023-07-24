@@ -30,6 +30,7 @@
 		BB841D652A69DCCB00D68185 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		BB841D6C2A69DD1A00D68185 /* Users.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Users.swift; sourceTree = "<group>"; };
 		BB841D702A69DF4E00D68185 /* ListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListView.swift; sourceTree = "<group>"; };
+		BBAAE8172A6E244D004529B4 /* LoadingView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoadingView.swift; sourceTree = "<group>"; };
 		BBC6894B2A6B8FF70041FC19 /* UserService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserService.swift; sourceTree = "<group>"; };
 		BBC6894F2A6B91190041FC19 /* PostService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostService.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -94,6 +95,7 @@
 		BBC689482A6B8EE90041FC19 /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				BBAAE8172A6E244D004529B4 /* LoadingView.swift */,
 				BB841D602A69DCC800D68185 /* ContentView.swift */,
 				BB841D702A69DF4E00D68185 /* ListView.swift */,
 				BB1393312A6A5202004511F8 /* PostView.swift */,
@@ -196,6 +198,7 @@
 				BB841D712A69DF4E00D68185 /* ListView.swift in Sources */,
 				BB1393322A6A5202004511F8 /* PostView.swift in Sources */,
 				BB841D5F2A69DCC800D68185 /* TestIngresoApp.swift in Sources */,
+				BBAAE8182A6E244E004529B4 /* LoadingView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
