@@ -15,6 +15,7 @@
 		BB841D662A69DCCB00D68185 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BB841D652A69DCCB00D68185 /* Preview Assets.xcassets */; };
 		BB841D6D2A69DD1A00D68185 /* Users.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB841D6C2A69DD1A00D68185 /* Users.swift */; };
 		BB841D712A69DF4E00D68185 /* ListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB841D702A69DF4E00D68185 /* ListView.swift */; };
+		BBAAE8182A6E244E004529B4 /* LoadingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBAAE8172A6E244D004529B4 /* LoadingView.swift */; };
 		BBC6894C2A6B8FF70041FC19 /* UserService.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBC6894B2A6B8FF70041FC19 /* UserService.swift */; };
 		BBC689502A6B91190041FC19 /* PostService.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBC6894F2A6B91190041FC19 /* PostService.swift */; };
 /* End PBXBuildFile section */
